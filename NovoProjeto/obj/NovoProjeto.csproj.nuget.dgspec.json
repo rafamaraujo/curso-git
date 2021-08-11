@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS Repositorio\\NovoProjeto\\NovoProjeto\\NovoProjeto.csproj": {}
+    "D:\\VS Repositorio\\curso-git\\NovoProjeto\\NovoProjeto.csproj": {}
   },
   "projects": {
-    "D:\\VS Repositorio\\NovoProjeto\\NovoProjeto\\NovoProjeto.csproj": {
+    "D:\\VS Repositorio\\curso-git\\NovoProjeto\\NovoProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS Repositorio\\NovoProjeto\\NovoProjeto\\NovoProjeto.csproj",
+        "projectUniqueName": "D:\\VS Repositorio\\curso-git\\NovoProjeto\\NovoProjeto.csproj",
         "projectName": "NovoProjeto",
-        "projectPath": "D:\\VS Repositorio\\NovoProjeto\\NovoProjeto\\NovoProjeto.csproj",
+        "projectPath": "D:\\VS Repositorio\\curso-git\\NovoProjeto\\NovoProjeto.csproj",
         "packagesPath": "C:\\Users\\rafam\\.nuget\\packages\\",
-        "outputPath": "D:\\VS Repositorio\\NovoProjeto\\NovoProjeto\\obj\\",
+        "outputPath": "D:\\VS Repositorio\\curso-git\\NovoProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
