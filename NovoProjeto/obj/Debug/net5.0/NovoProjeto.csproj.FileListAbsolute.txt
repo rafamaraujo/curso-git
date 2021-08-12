@@ -1,0 +1,16 @@
+D:\VS Repositorio\curso-git\NovoProjeto\bin\Debug\net5.0\NovoProjeto.exe
+D:\VS Repositorio\curso-git\NovoProjeto\bin\Debug\net5.0\NovoProjeto.deps.json
+D:\VS Repositorio\curso-git\NovoProjeto\bin\Debug\net5.0\NovoProjeto.runtimeconfig.json
+D:\VS Repositorio\curso-git\NovoProjeto\bin\Debug\net5.0\NovoProjeto.runtimeconfig.dev.json
+D:\VS Repositorio\curso-git\NovoProjeto\bin\Debug\net5.0\NovoProjeto.dll
+D:\VS Repositorio\curso-git\NovoProjeto\bin\Debug\net5.0\ref\NovoProjeto.dll
+D:\VS Repositorio\curso-git\NovoProjeto\bin\Debug\net5.0\NovoProjeto.pdb
+D:\VS Repositorio\curso-git\NovoProjeto\obj\Debug\net5.0\NovoProjeto.csproj.AssemblyReference.cache
+D:\VS Repositorio\curso-git\NovoProjeto\obj\Debug\net5.0\NovoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Repositorio\curso-git\NovoProjeto\obj\Debug\net5.0\NovoProjeto.AssemblyInfoInputs.cache
+D:\VS Repositorio\curso-git\NovoProjeto\obj\Debug\net5.0\NovoProjeto.AssemblyInfo.cs
+D:\VS Repositorio\curso-git\NovoProjeto\obj\Debug\net5.0\NovoProjeto.csproj.CoreCompileInputs.cache
+D:\VS Repositorio\curso-git\NovoProjeto\obj\Debug\net5.0\NovoProjeto.dll
+D:\VS Repositorio\curso-git\NovoProjeto\obj\Debug\net5.0\ref\NovoProjeto.dll
+D:\VS Repositorio\curso-git\NovoProjeto\obj\Debug\net5.0\NovoProjeto.pdb
+D:\VS Repositorio\curso-git\NovoProjeto\obj\Debug\net5.0\NovoProjeto.genruntimeconfig.cache
